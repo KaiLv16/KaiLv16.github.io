@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Kai Lv, a 4th year Ph.D. student in the <a href='http://www.ict.ac.cn/'>Institute of computing Technology, Chinese Academy of Sciences.</a>, advised by <a href='https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html'>Prof. Gaogang Xie</a> and <a href='https://panheng.github.io/'>Prof. Heng Pan</a>.
-Before joining ICT, I received my B.E. degree in Electronic Engineering from <a href='https://www.ee.tsinghua.edu.cn/'>Department of Electronic Engineering, Tsinghua University</a>, China, in 2020.
+I'm Kai Lv, a 4th year Ph.D. student at <a href='http://www.ict.ac.cn/'>Institute of computing Technology, Chinese Academy of Sciences.</a>(ICT, CAS), advised by <a href='https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html'>Prof. Gaogang Xie</a> and <a href='https://panheng.github.io/'>Prof. Heng Pan</a>.
+I received my B.E. degree in Electronic Engineering from <a href='https://www.ee.tsinghua.edu.cn/'>Department of Electronic Engineering, Tsinghua University</a>, China, in 2020.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
